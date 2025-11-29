@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey!
 
-<!--
-**spekkii/spekkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ethan, a Computer Science student (University of London, Goldsmiths) with a strong interest in full-stack development with a focus on backend engineering, cloud, and cybersecurity.
 
-Here are some ideas to get you started:
+I enjoy building clear, structured solutions and strengthening my technical foundations through real projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm currently working on** deepening my knowledge in API design, cloud & DevOps fundamentals, and the security principles that support backend systems.
+
+My current **tech stack** includes Python, JavaScript/Node.js, SQL, and C++.
+
+
+## 🌍 What I’m aiming for
+
+* Backend engineering roles (Python/Go/Node)
+* Cloud-focused full stack or infrastructure internships
+* Environments where clarity, structure, and strong engineering practices matter
