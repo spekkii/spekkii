@@ -8,6 +8,8 @@ I enjoy building clear, structured solutions and strengthening my technical foun
 
 My current **tech stack** includes Python, JavaScript/Node.js, SQL, and C++.
 
+I'm still exploring different technologies to find the one stack that fits my programming style the best!
+
 
 ## 🌍 What I’m aiming for
 
